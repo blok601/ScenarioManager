@@ -1,0 +1,11 @@
+name: ScenarioManager
+version: 1.0
+main: me.blok601.sm.Main
+description: Scenario Manager for NightShadePvP
+commands:
+  cutclean:
+    description: CutClean Enabler/Disabler
+  timebomb:
+    description: Timebomb Enabler/Disabler
+  scen:
+    description: Scenario Manager GUI Opener
